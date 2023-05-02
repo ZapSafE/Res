@@ -256,13 +256,3 @@
   color: var(--color-black);
   font-family: var(--font-jost);
 }
-.rss
-{
- width: 200px;
-  height: 200px;
-background-image: url("./img/z.png");
-background-size: cover;
-background-repeat: no-repeat;
-
-}
-
