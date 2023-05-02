@@ -1,4 +1,6 @@
 .desktop-1-child,
+
+
 .desktop-1-item {
   position: absolute;
   top: 0;
@@ -7,6 +9,7 @@
   width: 500px;
   height: 1418px;
 }
+
 .desktop-1-item {
   top: -19px;
   left: 496px;
@@ -23,6 +26,9 @@
   width: 360px;
   height: 10px;
 }
+
+ 
+
 .rectangle-div {
   top: 806px;
 }
@@ -256,3 +262,4 @@
   color: var(--color-black);
   font-family: var(--font-jost);
 }
+
